@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=850&height=80&lines=Hey!+I'm+Your+Name+Here+👋;Full+Stack+Developer+💻;Building+The+Future+🚀;One+Line+At+A+Time+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=850&height=80&lines=Hey!+I'm+Umang Agrahari+Here+👋;Full+Stack+Developer+💻;Shaping+What’s+Ahead+🚀;One+Line+At+A+Time+⚡" alt="Typing SVG" />
 
 </div>
 
@@ -75,11 +75,14 @@ const developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -115,8 +118,8 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=your-repo-name&theme=tokyonight)](https://github.com/Umangagrahari21/BurgerHut)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=your-repo-name-2&theme=tokyonight)](https://github.com/Umangagrahari21/BlinkAI-Ai-summarizer)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Umangagrahari21&repo=your-repo-name&theme=tokyonight)](https://github.com/Umangagrahari21/BurgerHut)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Umangagrahari21&repo=your-repo-name-2&theme=tokyonight)](https://github.com/Umangagrahari21/BlinkAI-Ai-summarizer)
 
 </div>
 
