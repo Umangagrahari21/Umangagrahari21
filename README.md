@@ -4,7 +4,7 @@
   
 # 🚀 Welcome to My Digital Universe
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="65%" alt="Coding Animation" />
+<img src="https://avatars.githubusercontent.com/u/181439015?v=4" width="65%" alt="Coding Animation" />
 
 </div>
 
